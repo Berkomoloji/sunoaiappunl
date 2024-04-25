@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiohttp
+pydantic
+requests
+streamlit
+streamlit-modal
+streamlit-option-menu
+streamlit-image-select
+streamlit-antd-components
